@@ -3,8 +3,7 @@
 
 # 2019 redirects
 
-/2019/bobtest https://randomness.org.uk
-/2019/* https://www.devopsdays.org/events/2019-london/:splat
+/2019/sponsor https://www.devopsdays.org/events/2019-london/sponsor
 /2019 https://www.devopsdays.org/events/2019-london/welcome/
 
 # this should always be last
