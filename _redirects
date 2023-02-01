@@ -35,5 +35,16 @@
 /2022/tickets https://www.devopsdays.org/events/2022-london/registration/
 /2022/buy https://www.devopsdays.org/events/2022-london/registration/
 /2022 https://www.devopsdays.org/events/2022-london/welcome/
+# 2023 redirects
+/2023/program https://www.devopsdays.org/events/2023-london/program
+/2023/programme https://www.devopsdays.org/events/2023-london/program
+/2023/agenda https://www.devopsdays.org/events/2023-london/program
+/2023/sponsor https://www.devopsdays.org/events/2023-london/sponsor
+/2023/propose https://www.devopsdays.org/events/2023-london/propose
+/2023/cfp https://www.devopsdays.org/events/2023-london/propose
+/2023/registration/ https://www.devopsdays.org/events/2023-london/registration/
+/2023/tickets https://www.devopsdays.org/events/2023-london/registration/
+/2023/buy https://www.devopsdays.org/events/2023-london/registration/
+/2023 https://www.devopsdays.org/events/2023-london/welcome/
 # this should always be last
-/* https://www.devopsdays.org/events/2022-london/welcome/
+/* https://www.devopsdays.org/events/2023-london/welcome/
